@@ -1,0 +1,81 @@
+/* src/App.css */
+.App {
+    text-align: center;
+    margin: 20px;
+    background-color: rgb(0, 60, 67);
+    padding:20px;
+    border-radius: 20px;
+    color:white;
+  }
+.App h1{
+    font-weight: 100;
+    font-size: 40;
+}
+  
+  input {
+    padding: 10px;
+    font-size: 12px;
+    margin-right: 10px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    margin-bottom: 10px;
+    width:25%;
+    text-align: center;
+    font-weight: 100;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 12px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    border:none;
+    margin-bottom: 10px;
+    width:25%;
+    text-align: center;
+    font-weight: 100;
+  }
+  
+ol {
+    list-style-type: none;
+    padding: 0;
+    margin:0;
+    text-align:center;
+  }
+  
+  .task-item {
+    padding:5px;
+    border: 1px #ddd;
+    font-size: 18px;
+    margin: 10px;
+  }
+  .box{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding:20px;
+    border-radius: 20px;
+    color:rgb(0, 60, 67);
+    width:50%;
+    margin: auto;
+    margin-bottom: 10px;
+    
+  }
+
+  .box h3{
+    font-weight: 100;
+    font-size: 40;
+  }
+
+
+#btno {
+    padding: 10px 20px;
+    font-size: 12px;
+    border-radius: 20px;
+    background-color:white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:25%;
+    text-align: center;
+    font-weight: 100;
+}
